@@ -268,7 +268,7 @@ cc_binary {
             ],
         },
     },
-    stl: "libc++_static",
+    stl: "libc++",
 }
 
 cc_binary {
